@@ -7,7 +7,7 @@
 
 </div>
 <div align="start">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha92Shevchuk&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasha92Shevchuk&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=false&locale=en&custom_title=Top%20%Languages" height="150" alt="Top Languages" />
 </div>
 
 ### Stack & Tools:
