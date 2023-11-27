@@ -1,9 +1,8 @@
 <h2 align="start">Hi 👋! My name is Oleksandr Shevchuk  <br>I'm a front-end developer</h2>
 
 ### 
-
+<a href="http://www.github.com/Sasha92Shevchuk"><img src="https://github-readme-stats.vercel.app/api?username=Sasha92Shevchuk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Sasha92Shevchuk's GitHub stats" /></a>
 <div align="start">
- <img src="https://github-readme-stats.vercel.app/api?username=Sasha92Shevchuk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Sasha92Shevchuk's GitHub stats" />
  <img src="https://github-readme-stats.vercel.app/api?username=Sasha92Shevchuk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&show_icons=true" height="150" alt="Sasha92Shevchuk's GitHub stats" />
 
 </div>
