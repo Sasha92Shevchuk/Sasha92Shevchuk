@@ -26,5 +26,5 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
   </div>
 
+<!-- done with https://www.profileme.dev/create-profile -->
 
-// done with https://www.profileme.dev/create-profile
