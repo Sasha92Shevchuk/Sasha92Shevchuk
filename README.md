@@ -26,15 +26,5 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" />
   </div>
 
-### Socials:
-
-<div align="start">
-  <a href="https://www.linkedin.com/in/oleksandr-shevchuk-y/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/alex_s392" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  </a>
-</div>
 
 
